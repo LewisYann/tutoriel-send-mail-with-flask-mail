@@ -1,11 +1,17 @@
-# tutoriel-send-mail-with-flask-mail
-Building Flask App, using Flask mail to send mail with an API rest 
+# Send an E-mail with Flask App  
 
-###Run project
-Install depencies
-#####pip install Flask, Flask_mail, dotenv
+Building Flask App, using Flask mail to send mail with an API rest
 
-Run project 
-####python app.py
+  
 
-Don't forget to configure your mail identifant in .env file
+ - *Install dependencies*  
+   
+       pip install Flask, Flask_mail, dotenv  
+   
+     
+   
+ - *Run project*   
+   
+       python app.py
+
+Don't forget to configure your mail identified in .env file
